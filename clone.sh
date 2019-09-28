@@ -35,6 +35,10 @@ git clone https://github.com/ansible/ansible
 
 git clone https://github.com/rust-lang/rust
 
+# Node
+
+git clone https://github.com/nodejs/node.git
+
 # Scapy section
 
 git clone https://github.com/secdev/scapy
