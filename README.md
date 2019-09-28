@@ -1,2 +1,2 @@
 # jpegleg-lib
-Clone a bunch of jpegleg repos.
+Clone a collection of repos from github. Some of mine, some I love.
