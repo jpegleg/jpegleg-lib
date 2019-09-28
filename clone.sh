@@ -19,11 +19,6 @@ git clone https://github.com/jpegleg/sec-enforce.git
 
 git clone https://github.com/simple-evcorr/sec.git
 
-
-# OpenSCAP section
-
-git clone https://github.com/OpenSCAP/openscap.git
-
 # Kubernetes section
 
 git clone https://github.com/kubernetes/kubernetes.git
@@ -48,7 +43,7 @@ git clone https://github.com/secdev/scapy
 
 git clone https://github.com/tensorflow/tensorflow
 
-# ML learnging section
+# ML learning section
 
 git clone https://github.com/josephmisiti/awesome-machine-learning.git
 git clone https://github.com/rasbt/python-machine-learning-book-2nd-edition.git
@@ -57,9 +52,14 @@ git clone https://github.com/udacity/machine-learning.git
 
 # "Blue Team" misc
 
+git clone https://github.com/cloudflare/bpftools.git
+git clone https://github.com/SELinuxProject/selinux.git
+git clone https://github.com/wazuh/wazuh.git
+git clone https://github.com/wazuh/wazuh-docker
+git clone https://github.com/wazuh/wazuh-ansible
+git clone https://github.com/OpenSCAP/openscap.git
 git clone https://github.com/tony-landis/PonyExpress.git
 git clone https://github.com/pfsense/pfsense.git
-git clone https://github.com/cloudflare/bpftools.git
 git clone https://github.com/rook2pawn/node-ddos
 git clone https://github.com/fcaviggia/hardened-centos7-kickstart.git
 git clone https://github.com/naingyeminn/CentOS7_Lockdown.git
