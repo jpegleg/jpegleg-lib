@@ -51,6 +51,7 @@ rm -rf geppetto 2>/dev/null
 rm -rf zaproxy 2>/dev/null
 rm -rf openvas 2>/dev/null
 rm -ff nmap 2>/dev/null
+rm -rf time-sort-tar 2>/dev/null
 
 # Clone a collection of repos.
 
@@ -66,6 +67,7 @@ git clone https://github.com/jpegleg/metarc.git
 git clone https://github.com/jpegleg/revsec.git
 git clone https://github.com/jpegleg/five-daemon-mgmt.git
 git clone https://github.com/jpegleg/sec-enforce.git
+git clone https://github.com/jpegleg/time-sort-tar.git
 
 # SEC section
 
