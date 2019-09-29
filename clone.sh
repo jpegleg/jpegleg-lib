@@ -52,6 +52,9 @@ rm -rf zaproxy 2>/dev/null
 rm -rf openvas 2>/dev/null
 rm -ff nmap 2>/dev/null
 rm -rf time-sort-tar 2>/dev/null
+rm -rf nginx 2>/dev/null
+rm -rf haproxy 2>/dev/null
+rm -rf squid-cache 2>/dev/null
 
 # Clone a collection of repos.
 
@@ -122,6 +125,8 @@ git clone https://github.com/dev-sec/ansible-nginx-hardening.git
 git clone https://github.com/andrewmclagan/nginx-hhvm-docker.git
 git clone https://github.com/rapid7/geppetto.git
 git clone https://github.com/nginx/nginx.git
+git clone https://github.com/haproxy/haproxy.git
+git clone https://github.com/squid-cache/squid.git
 
 # Offensive security: denial of service
 
