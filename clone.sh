@@ -122,8 +122,6 @@ git clone https://github.com/rapid7/geppetto.git
 # Offensive security: denial of service
 
 git clone https://github.com/llaera/slowloris.pl.git
-git clone https://github.com/epsylon/ufonet.git
-git clone https://github.com/Souhardya/WarChild.git
 
 # Offensive security: metasploit 
 
@@ -142,6 +140,3 @@ git clone https://github.com/USArmyResearchLab/Dshell.git
 git clone https://github.com/ReFirmLabs/binwalk.git
 git clone https://github.com/Invoke-IR/PowerForensics.git
 git clone https://github.com/cugu/awesome-forensics
-
-
-
