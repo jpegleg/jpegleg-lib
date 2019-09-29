@@ -104,7 +104,7 @@ git clone https://github.com/rasbt/python-machine-learning-book-2nd-edition.git
 git clone https://github.com/wepe/MachineLearning.git
 git clone https://github.com/udacity/machine-learning.git
 
-# Defense, sec eng
+# Defense, eng
 
 git clone https://github.com/cloudflare/bpftools.git
 git clone https://github.com/SELinuxProject/selinux.git
@@ -121,6 +121,7 @@ git clone https://github.com/konstruktoid/ansible-role-hardening.git
 git clone https://github.com/dev-sec/ansible-nginx-hardening.git
 git clone https://github.com/andrewmclagan/nginx-hhvm-docker.git
 git clone https://github.com/rapid7/geppetto.git
+git clone https://github.com/nginx/nginx.git
 
 # Offensive security: denial of service
 
