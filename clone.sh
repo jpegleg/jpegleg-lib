@@ -50,6 +50,7 @@ rm -rf metasploit-framework 2>/dev/null
 rm -rf geppetto 2>/dev/null
 rm -rf zaproxy 2>/dev/null
 rm -rf openvas 2>/dev/null
+rm -ff nmap 2>/dev/null
 
 # Clone a collection of repos.
 
@@ -130,6 +131,7 @@ git clone https://github.com/rapid7/metasploit-framework.git
 
 # Scanners / Recon
 
+git clone https://github.com/nmap/nmap.git
 git clone https://github.com/zaproxy/zaproxy.git
 git clone https://github.com/greenbone/openvas.git
 
