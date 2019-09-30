@@ -10,7 +10,6 @@ rm -rf pipe2sec 2>/dev/null
 rm -rf careful-squid 2>/dev/null
 rm -rf metarc 2>/dev/null
 rm -rf revsec 2>/dev/null
-rm -rf five-daemon-mgmt 2>/dev/null
 rm -rf sec-enforce 2>/dev/null
 rm -rf sec 2>/dev/null
 rm -rf kubernetes 2>/dev/null
@@ -69,7 +68,6 @@ git clone https://github.com/jpegleg/pipe2sec.git
 git clone https://github.com/jpegleg/careful-squid.git
 git clone https://github.com/jpegleg/metarc.git
 git clone https://github.com/jpegleg/revsec.git
-git clone https://github.com/jpegleg/five-daemon-mgmt.git
 git clone https://github.com/jpegleg/sec-enforce.git
 git clone https://github.com/jpegleg/time-sort-tar.git
 git clone https://github.com/jpegleg/expiry-hunter.git
