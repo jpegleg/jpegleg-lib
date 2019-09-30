@@ -55,6 +55,7 @@ rm -rf time-sort-tar 2>/dev/null
 rm -rf nginx 2>/dev/null
 rm -rf haproxy 2>/dev/null
 rm -rf squid-cache 2>/dev/null
+rm -rf expiry-hunter 2>/dev/null
 
 # Clone a collection of repos.
 
@@ -71,6 +72,7 @@ git clone https://github.com/jpegleg/revsec.git
 git clone https://github.com/jpegleg/five-daemon-mgmt.git
 git clone https://github.com/jpegleg/sec-enforce.git
 git clone https://github.com/jpegleg/time-sort-tar.git
+git clone https://github.com/jpegleg/expiry-hunter.git
 
 # SEC section
 
