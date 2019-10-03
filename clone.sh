@@ -55,6 +55,7 @@ rm -rf nginx 2>/dev/null
 rm -rf haproxy 2>/dev/null
 rm -rf squid-cache 2>/dev/null
 rm -rf expiry-hunter 2>/dev/null
+rm -rf vulsctl 2>/dev/null
 
 # Clone a collection of repos.
 
@@ -140,6 +141,7 @@ git clone https://github.com/rapid7/metasploit-framework.git
 # Scanners / Recon
 
 git clone https://github.com/nmap/nmap.git
+git clone https://github.com/vulsio/vulsctl.git
 git clone https://github.com/zaproxy/zaproxy.git
 git clone https://github.com/greenbone/openvas.git
 
