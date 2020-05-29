@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 downloader () {
-  recata /srv/ https://github.com/ $target jpegleg-git
+  recurse-catalog /srv/ https://github.com/ $target jpegleg-git
 }
 
 for repo in $(grep jpegleg rm-and-clone.sh); do
