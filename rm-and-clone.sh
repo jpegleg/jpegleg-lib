@@ -1,11 +1,7 @@
 #!/usr/bin/env bash
 
-# Crudely blast away anything that was there!
-
 cd $1
 rm -rf ./*
-
-# Check out some of the jpegleg github code scraps:
 
 git clone https://github.com/jpegleg/deb-bast
 git clone https://github.com/jpegleg/tls-haproxy-config
