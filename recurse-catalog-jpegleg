@@ -9,4 +9,4 @@ for repo in $(grep jpegleg clone.sh | grep -o https.*); do
   recurse-catalog /srv/ https://github.com/jpegleg/ "$target" jpegleg-git
 done
 
-cp load.csv /srv/
+cat load.csv | grep -v "/.git/" > /srv/load.csv
