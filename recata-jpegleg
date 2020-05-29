@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+downloader () {
+  recata /srv/ https://github.com/ $target jpegleg-git
+}
+
+for repo in $(grep jpegleg rm-and-clone.sh); do
+  target=$(echo $repo | rev | cut -d'/' -f1 | rev)
+  downloader
+done
