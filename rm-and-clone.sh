@@ -23,7 +23,7 @@ git clone https://github.com/jpegleg/character-lib
 git clone https://github.com/jpegleg/spiral-arm
 git clone https://github.com/jpegleg/h2b2
 git clone https://github.com/jpegleg/forcematrix
-git clone https://github.com/jpegleg/mail-fixer
+git clone https://github.com/jpegleg/mailfixer
 git clone https://github.com/jpegleg/change-watcher
 git clone https://github.com/jpegleg/fe-html-template
 git clone https://github.com/jpegleg/flying-m
