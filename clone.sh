@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 git clone https://github.com/jpegleg/deb-bast
+git clone https://github.com/jpegleg/ansible-lb-ldap
+git clone https://github.com/jpegleg/draconian-one-way
 git clone https://github.com/jpegleg/tls-haproxy-config
 git clone https://github.com/jpegleg/ssh-key-hunter
 git clone https://github.com/jpegleg/zshrc
