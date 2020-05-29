@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-cd $1
-rm -rf ./*
-
 git clone https://github.com/jpegleg/deb-bast
 git clone https://github.com/jpegleg/tls-haproxy-config
 git clone https://github.com/jpegleg/ssh-key-hunter
