@@ -1,6 +1,3 @@
 # jpegleg-lib
-Clone a collection of repos from github. Some of mine, some I love. Some that are too popular to ignore.
 
-So let's take a look.
-
-All this code takes up a chunk of space, probably more than 5 gigs, probably less than 10. I'll be attempting to keep it always uner 16.
+Wrappers for checking out a bunch of jpegleg repos.
