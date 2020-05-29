@@ -1,10 +1,7 @@
 #!/usr/bin/env bash
 
-downloader () {
-  recurse-catalog /srv/ https://github.com/ $target jpegleg-git
-}
-
-for repo in $(grep jpegleg rm-and-clone.sh); do
-  target=$(echo $repo | rev | cut -d'/' -f1 | rev)
-  downloader
+for repo in $(grep jpegleg rm-and-clone.sh | grep -o https.*); do
+  echo $repo
+  target=$(echo "$repo" | rev | cut -d'/' -f1 | rev)
+  recurse-catalog /srv/ https://github.com/jpegleg/ "$target" jpegleg-git
 done
