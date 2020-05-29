@@ -2,8 +2,11 @@
 
 # See https://github.com/jpegleg/recurse-catalog for the recurse-catalog program
 
-for repo in $(grep jpegleg rm-and-clone.sh | grep -o https.*); do
+for repo in $(grep jpegleg clone.sh | grep -o https.*); do
   echo $repo
   target=$(echo "$repo" | rev | cut -d'/' -f1 | rev)
+  rm -rf /srv/"$target"/
   recurse-catalog /srv/ https://github.com/jpegleg/ "$target" jpegleg-git
 done
+
+cp load.csv /srv/
