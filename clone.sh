@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-git clone https://github.com/jpegleg/kalie-live-flow
+git clone https://github.com/jpegleg/kali-live-flow
 git clone https://github.com/jpegleg/deb-bast
 git clone https://github.com/jpegleg/ansible-lb-ldap
 git clone https://github.com/jpegleg/draconian-one-way
