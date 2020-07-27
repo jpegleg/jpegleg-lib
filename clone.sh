@@ -40,3 +40,7 @@ git clone https://github.com/jpegleg/revsec
 git clone https://github.com/jpegleg/sec-enforce
 git clone https://github.com/jpegleg/time-sort-tar
 git clone https://github.com/jpegleg/expiry-hunter
+git clone https://github.com/jpegleg/eaas-deployment-d
+git clone https://github.com/jpegleg/eaas-deployment-e
+git clone https://github.com/jpegleg/tls-library
+
