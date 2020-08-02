@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+git clone https://github.com/jpegleg/crypt-baller
 git clone https://github.com/jpegleg/kali-live-flow
 git clone https://github.com/jpegleg/deb-bast
 git clone https://github.com/jpegleg/ansible-lb-ldap
@@ -43,4 +44,5 @@ git clone https://github.com/jpegleg/expiry-hunter
 git clone https://github.com/jpegleg/eaas-deployment-d
 git clone https://github.com/jpegleg/eaas-deployment-e
 git clone https://github.com/jpegleg/tls-library
+
 
