@@ -44,5 +44,5 @@ git clone https://github.com/jpegleg/expiry-hunter
 git clone https://github.com/jpegleg/eaas-deployment-d
 git clone https://github.com/jpegleg/eaas-deployment-e
 git clone https://github.com/jpegleg/tls-library
-
+git clone https://github.com/jpegleg/dns_upload
 
