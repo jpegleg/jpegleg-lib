@@ -46,3 +46,4 @@ git clone https://github.com/jpegleg/eaas-deployment-e
 git clone https://github.com/jpegleg/tls-library
 git clone https://github.com/jpegleg/dns_upload
 git clone https://github.com/jpegleg/open-gslb_template
+git clone https://github.com/jpegleg/jpegleg-registry
