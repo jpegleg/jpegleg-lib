@@ -49,3 +49,4 @@ git clone https://github.com/jpegleg/open-gslb_template
 git clone https://github.com/jpegleg/jpegleg-registry
 git clone https://github.com/jpegleg/firewalld-autoban
 git clone https://github.com/jpegleg/freebsd-arpsec
+git clone https://github.com/jpegleg/badger-chainz
