@@ -19,7 +19,6 @@ git clone https://github.com/jpegleg/jpegleg-lib
 git clone https://github.com/jpegleg/jpegleg-vimrc
 git clone https://github.com/jpegleg/net-gargoyle
 git clone https://github.com/jpegleg/sec-alarm
-git clone https://github.com/jpegleg/open-aanpm
 git clone https://github.com/jpegleg/character-lib
 git clone https://github.com/jpegleg/spiral-arm
 git clone https://github.com/jpegleg/h2b2
