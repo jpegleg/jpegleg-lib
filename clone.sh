@@ -50,3 +50,4 @@ git clone https://github.com/jpegleg/firewalld-autoban
 git clone https://github.com/jpegleg/freebsd-arpsec
 git clone https://github.com/jpegleg/badger-chainz
 git clone https://github.com/jpegleg/nginx-le-deploy
+git clone https://github.com/jpegleg/1-vm-enterprise
