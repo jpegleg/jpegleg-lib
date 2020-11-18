@@ -54,3 +54,4 @@ git clone https://github.com/jpegleg/1-vm-enterprise
 git clone https://github.com/jpegleg/ansible-reports
 git clone https://github.com/jpegleg/c7_jenkins_agent
 git clone https://github.com/jpegleg/d10_jenkins_agent
+git clone https://github.com/jpegleg/snake_bounce
