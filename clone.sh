@@ -57,3 +57,4 @@ git clone https://github.com/jpegleg/d10_jenkins_agent
 git clone https://github.com/jpegleg/snake_bounce
 git clone https://github.com/jpegleg/wazuh-console-tools
 git clone https://github.com/jpegleg/net-gargoyle2
+git clone https://github.com/jpegleg/gluster_cluster
