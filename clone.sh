@@ -59,3 +59,4 @@ git clone https://github.com/jpegleg/wazuh-console-tools
 git clone https://github.com/jpegleg/net-gargoyle2
 git clone https://github.com/jpegleg/gluster_cluster
 git clone https://github.com/jpegleg/redis_compile
+git clone https://github.com/jpegleg/eaas-deployment-f
