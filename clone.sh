@@ -61,3 +61,4 @@ git clone https://github.com/jpegleg/gluster_cluster
 git clone https://github.com/jpegleg/redis_compile
 git clone https://github.com/jpegleg/eaas-deployment-f
 git clone https://github.com/jpegleg/nginsec_defaults
+git clone https://github.com/jpegleg/debian_kernel_builder
