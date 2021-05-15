@@ -15,6 +15,7 @@ git clone https://github.com/jpegleg/plumbus-freezer
 git clone https://github.com/jpegleg/bash-jwt
 git clone https://github.com/jpegleg/cryptoCore
 git clone https://github.com/jpegleg/iterblock
+git clone https://github.com/jpegleg/iterblock2
 git clone https://github.com/jpegleg/magic-spell
 git clone https://github.com/jpegleg/jpegleg-lib
 git clone https://github.com/jpegleg/jpegleg-vimrc
