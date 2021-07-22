@@ -67,3 +67,4 @@ git clone https://github.com/jpegleg/debian_kernel_builder
 git clone https://github.com/jpegleg/signer-daemon
 git clone https://github.com/jpegleg/rust_python_library
 git clone https://github.com/jpegleg/your_grace
+git clone https://github.com/jpegleg/double-crypt
