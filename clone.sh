@@ -69,3 +69,4 @@ git clone https://github.com/jpegleg/rust_python_library
 git clone https://github.com/jpegleg/your_grace
 git clone https://github.com/jpegleg/double-crypt
 git clone https://github.com/jpegleg/honeycat
+git clone https://github.com/jpegleg/jenkins_storm
