@@ -72,3 +72,4 @@ git clone https://github.com/jpegleg/honeycat
 git clone https://github.com/jpegleg/jenkins_storm
 git clone https://github.com/jpegleg/deb_hardener
 git clone https://github.com/jpegleg/salsa_falcon
+git clone https://github.com/jpegleg/yaml_dip
