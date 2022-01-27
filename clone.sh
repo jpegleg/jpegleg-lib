@@ -75,3 +75,4 @@ git clone https://github.com/jpegleg/salsa_falcon
 git clone https://github.com/jpegleg/yaml_dip
 git clone https://github.com/jpegleg/mihno
 git clone https://github.com/jpegleg/badger-chainz-ssh
+git clone https://github.com/jpegleg/cloud-edge-deb
