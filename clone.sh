@@ -77,3 +77,4 @@ git clone https://github.com/jpegleg/mihno
 git clone https://github.com/jpegleg/badger-chainz-ssh
 git clone https://github.com/jpegleg/cloud-edge-deb
 git clone https://github.com/jpegleg/cartoon_captain
+git clone https://github.com/jpegleg/eaas-deployment-h
