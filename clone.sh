@@ -79,3 +79,4 @@ git clone https://github.com/jpegleg/cloud-edge-deb
 git clone https://github.com/jpegleg/cartoon_captain
 git clone https://github.com/jpegleg/eaas-deployment-h
 git clone https://github.com/jpegleg/eaas-deployment-k
+git clone https://github.com/jpegleg/royal_blobs_jwt_service
