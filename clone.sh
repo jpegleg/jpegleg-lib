@@ -82,3 +82,4 @@ git clone https://github.com/jpegleg/eaas-deployment-k
 git clone https://github.com/jpegleg/royal_blobs_jwt_service
 git clone https://github.com/jpegleg/osprey_validator
 git clone https://github.com/jpegleg/fixadm 
+git clone https://github.com/jpegleg/three_pki
