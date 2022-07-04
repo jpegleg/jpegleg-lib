@@ -84,3 +84,4 @@ git clone https://github.com/jpegleg/osprey_validator
 git clone https://github.com/jpegleg/fixadm 
 git clone https://github.com/jpegleg/three_pki
 git clone https://github.com/jpegleg/k3s-dragon-eggs
+git clone https://github.com/jpegleg/storm-reef-clusters
