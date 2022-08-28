@@ -87,3 +87,4 @@ git clone https://github.com/jpegleg/k3s-dragon-eggs
 git clone https://github.com/jpegleg/storm-reef-clusters
 git clone https://github.com/jpegleg/milk-thistle
 git clone https://github.com/jpegleg/borg-kube
+git clone https://github.com/jpegleg/protean-gitops
