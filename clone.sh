@@ -88,3 +88,4 @@ git clone https://github.com/jpegleg/storm-reef-clusters
 git clone https://github.com/jpegleg/milk-thistle
 git clone https://github.com/jpegleg/borg-kube
 git clone https://github.com/jpegleg/protean-gitops
+git clone https://github.com/jpegleg/whistle-pig
