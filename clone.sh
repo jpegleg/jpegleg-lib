@@ -95,3 +95,4 @@ git clone https://github.com/jpegleg/hydrake
 git clone https://github.com/jpegleg/crypt-utility-installer
 git clone https://github.com/jpegleg/morpho-web2
 git clone https://github.com/jpegleg/volcanica-pki
+git clone https://github.com/jpegleg/morpho-sessions
