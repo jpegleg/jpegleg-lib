@@ -97,3 +97,4 @@ git clone https://github.com/jpegleg/morpho-web2
 git clone https://github.com/jpegleg/volcanica-pki
 git clone https://github.com/jpegleg/morpho-sessions
 git clone https://github.com/jpegleg/load-crystalizer
+git clone https://github.com/jpegleg/shadow-renewal
