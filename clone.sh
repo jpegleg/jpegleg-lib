@@ -103,3 +103,4 @@ git clone https://github.com/jpegleg/flying-squirrel-tactix
 git clone https://github.com/jpegleg/eaas-deployment-m
 git clone https://github.com/jpegleg/archaeopteryx
 git clone https://github.com/jpegleg/frontline-controller
+git clone https://github.com/jpegleg/harmonia
