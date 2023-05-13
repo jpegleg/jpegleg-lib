@@ -106,3 +106,4 @@ git clone https://github.com/jpegleg/frontline-controller
 git clone https://github.com/jpegleg/harmonia
 git clone https://github.com/jpegleg/opal-dragon
 git clone https://github.com/jpegleg/larksys
+git clone https://github.com/jpegleg/woodchucker/
