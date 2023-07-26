@@ -110,3 +110,4 @@ git clone https://github.com/jpegleg/woodchucker/
 git clone https://github.com/jpegleg/Xresources
 git clone https://github.com/jpegleg/nephronix
 git clone https://github.com/jpegleg/dwarven-toolbox
+git clone https://github.com/jpegleg/japwnica
