@@ -112,3 +112,4 @@ git clone https://github.com/jpegleg/nephronix
 git clone https://github.com/jpegleg/dwarven-toolbox
 git clone https://github.com/jpegleg/japwnica
 git clone https://github.com/jpegleg/dblade
+git clone https://github.com/jpegleg/debian-12-workstation
