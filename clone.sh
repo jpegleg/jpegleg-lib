@@ -113,6 +113,7 @@ git clone https://github.com/jpegleg/dwarven-toolbox
 git clone https://github.com/jpegleg/japwnica
 git clone https://github.com/jpegleg/dblade
 git clone https://github.com/jpegleg/debian-12-workstation
+git clone https://github.com/jpegleg/callsoup
 git clone https://github.com/jpegleg/project-bobcat
 git clone https://github.com/jpegleg/morpho-web-lt
 git clone https://github.com/jpegleg/ocean-regulator
