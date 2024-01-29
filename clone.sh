@@ -117,3 +117,4 @@ git clone https://github.com/jpegleg/callsoup
 git clone https://github.com/jpegleg/project-bobcat
 git clone https://github.com/jpegleg/morpho-web-lt
 git clone https://github.com/jpegleg/ocean-regulator
+git clone https://github.com/jpegleg/serotinous-cone
