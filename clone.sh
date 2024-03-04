@@ -121,3 +121,4 @@ git clone https://github.com/jpegleg/serotinous-cone
 git clone https://github.com/jpegleg/ichorsurf
 git clone https://github.com/jpegleg/riftiax
 git clone https://github.com/jpegleg/abyss_data_cluster
+git clone https://github.com/jpegleg/elvish-pathway
