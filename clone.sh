@@ -106,7 +106,7 @@ git clone https://github.com/jpegleg/frontline-controller
 git clone https://github.com/jpegleg/harmonia
 git clone https://github.com/jpegleg/opal-dragon
 git clone https://github.com/jpegleg/larksys
-git clone https://github.com/jpegleg/woodchucker/
+git clone https://github.com/jpegleg/woodchucker
 git clone https://github.com/jpegleg/Xresources
 git clone https://github.com/jpegleg/nephronix
 git clone https://github.com/jpegleg/dwarven-toolbox
@@ -119,6 +119,6 @@ git clone https://github.com/jpegleg/morpho-web-lt
 git clone https://github.com/jpegleg/ocean-regulator
 git clone https://github.com/jpegleg/serotinous-cone
 git clone https://github.com/jpegleg/ichorsurf
-git clone https://github.com/jpegleg/riftiax
+git clone https://github.com/jpegleg/riftiaxe
 git clone https://github.com/jpegleg/abyss_data_cluster
 git clone https://github.com/jpegleg/elvish-pathway
