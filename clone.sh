@@ -122,3 +122,4 @@ git clone https://github.com/jpegleg/ichorsurf
 git clone https://github.com/jpegleg/riftiaxe
 git clone https://github.com/jpegleg/abyss_data_cluster
 git clone https://github.com/jpegleg/elvish-pathway
+git clone https://github.com/jpegleg/dark-star-controller
