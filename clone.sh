@@ -125,3 +125,4 @@ git clone https://github.com/jpegleg/elvish-pathway
 git clone https://github.com/jpegleg/dark-star-controller
 git clone https://github.com/jpegleg/pregate
 git clone https://github.com/jpegleg/rehino
+git clone https://github.com/jpegleg/rocky-bastard
