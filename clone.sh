@@ -127,3 +127,4 @@ git clone https://github.com/jpegleg/pregate
 git clone https://github.com/jpegleg/rehino
 git clone https://github.com/jpegleg/rocky-bastard
 git clone https://github.com/jpegleg/file_encryption_AES256
+git clone https://github.com/jpegleg/firfather
