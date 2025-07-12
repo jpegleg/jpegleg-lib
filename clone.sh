@@ -131,3 +131,4 @@ git clone https://github.com/jpegleg/firfather
 git clone https://github.com/jpegleg/wormsign
 git clone https://github.com/jpegleg/power-pathway
 git clone https://github.com/jpegleg/openbsd-workstation
+git clone https://github.com/jpegleg/enchantress
