@@ -134,3 +134,4 @@ git clone https://github.com/jpegleg/openbsd-workstation
 git clone https://github.com/jpegleg/enchantress
 git clone https://github.com/jpegleg/enchanter
 git clone https://github.com/jpegleg/giant-spellbook
+git clone https://github.com/jpegleg/debian-13-workstation
