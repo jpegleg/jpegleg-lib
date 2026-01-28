@@ -137,3 +137,4 @@ git clone https://github.com/jpegleg/giant-spellbook
 git clone https://github.com/jpegleg/debian-13-workstation
 git clone https://github.com/jpegleg/debian13-control-plane
 git clone https://github.com/jpegleg/kiaproxy
+git clone https://github.com/jpegleg/spell_hunter
