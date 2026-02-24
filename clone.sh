@@ -138,3 +138,4 @@ git clone https://github.com/jpegleg/debian13-control-plane
 git clone https://github.com/jpegleg/kiaproxy
 git clone https://github.com/jpegleg/spell_hunter
 git clone https://gitub.com/jpegleg/exception_logger
+git clone https://gitub.com/jpegleg/kiagateway
