@@ -140,3 +140,4 @@ git clone https://github.com/jpegleg/spell_hunter
 git clone https://gitub.com/jpegleg/exception_logger
 git clone https://gitub.com/jpegleg/kiagateway
 git clone https://github.com/jpegleg/paludification_toad/
+git clone https://github.com/jpegleg/sericea_shelterbelt
