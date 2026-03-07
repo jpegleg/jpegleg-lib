@@ -142,3 +142,4 @@ git clone https://gitub.com/jpegleg/kiagateway
 git clone https://github.com/jpegleg/paludification_toad/
 git clone https://github.com/jpegleg/sericea_shelterbelt
 git clone https://github.com/jpegleg/kiamagpie
+git clone https://github.com/jpegleg/kiabluejay
