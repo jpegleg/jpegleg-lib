@@ -137,9 +137,10 @@ git clone https://github.com/jpegleg/debian-13-workstation
 git clone https://github.com/jpegleg/debian13-control-plane
 git clone https://github.com/jpegleg/kiaproxy
 git clone https://github.com/jpegleg/spell_hunter
-git clone https://gitub.com/jpegleg/exception_logger
-git clone https://gitub.com/jpegleg/kiagateway
+git clone https://github.com/jpegleg/exception_logger
+git clone https://github.com/jpegleg/kiagateway
 git clone https://github.com/jpegleg/paludification_toad/
 git clone https://github.com/jpegleg/sericea_shelterbelt
 git clone https://github.com/jpegleg/kiamagpie
 git clone https://github.com/jpegleg/kiabluejay
+git clone https://github.com/jpegleg/vernal_edgewarden
