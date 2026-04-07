@@ -144,3 +144,4 @@ git clone https://github.com/jpegleg/sericea_shelterbelt
 git clone https://github.com/jpegleg/kiamagpie
 git clone https://github.com/jpegleg/kiabluejay
 git clone https://github.com/jpegleg/vernal_edgewarden
+git clone https://github.com/jpegleg/llm_hunter
