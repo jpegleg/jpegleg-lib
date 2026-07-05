@@ -148,3 +148,4 @@ git clone https://github.com/jpegleg/llm_hunter
 git clone https://github.com/jpegleg/linux-disk-space-manager
 git clone https://github.com/jpegleg/tls-identity-manager
 git clone https://github.com/jpegleg/nu-pathway
+git clone https://github.com/jpegleg/mldsa_tool
